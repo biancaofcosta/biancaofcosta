@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👩🏻‍💻 Bianca Costa
 
-<!--
-**biancaofcosta/biancaofcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora FullStack`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Bianca, sou natural do estado da Paraíba, e sou uma desenvolvedora FullStack em formação. Seja bem-vindo(a) amo meu perfil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <a href="https://github.com/biancaofcosta?tab=repositories">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/biancaofcosta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
