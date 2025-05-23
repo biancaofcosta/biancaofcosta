@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Welcome to my profile!.</p>
+<p align="left">Welcome to my profile!</p>
 
 ###
 
