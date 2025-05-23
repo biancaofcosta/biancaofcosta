@@ -2,11 +2,7 @@
   <img height="100" src="https://i.pinimg.com/originals/7b/c9/79/7bc97918ccb4f3f4d3ce7db15848733c.gif"  />
 </div>
 
-###
 
-<p align="left">Welcome to my profile!</p>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bianca-costa-5a69aa217/" target="_blank">
