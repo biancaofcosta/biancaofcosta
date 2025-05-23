@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Bianca, sou natural do estado da Paraíba, e sou uma desenvolvedora FullStack em formação. Seja bem-vindo(a) amo meu perfil! Visite tambpem o meu LinkedInd.</p>
+<p align="left">Welcome to my profile!.</p>
 
 ###
 
